@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Шпора</title>
-	<meta http-equiv="content-type" content="text/html; charset="windows-1251" />
+	<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -17,7 +17,7 @@
 				<article id="main">
 
 					<header class="special">
-						<h2>Шпаргалка</h2>
+						<h2><a href="index.html" style="text-decoration: none">Шпаргалка</a></h2>
 						<h3>Геометрия, 10 класс</h3>
 						
 					</header>
@@ -47,7 +47,17 @@
 							</div>
 						</section>
 
-		</div>
 
+
+
+
+
+				
+				
+
+		</div>
+<footer id="footer">
+<p>Липецк, 2020</p>
+</footer>
 	</body>
 </html>
